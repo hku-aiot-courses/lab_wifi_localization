@@ -38,7 +38,7 @@ With the alignment matrix, you can know the relative position of these transmitt
 
 **The above four experiments are fundamental and must be done by all of you. If you are not able to handle the extend experiment, which is the fourth part, it's OK to just finish four of them. And you will get almost 80 points if you do a good job.**
 
-### E. Extend experiment (10 points)
+### E. Extend experiment (bonus)
 In the third part, you can find that it is unstable to track the closest position (relocalize) by using TRRS only. To improve the performance, you can try to use the CSI data collected from other antennas or even other APs. You are also encouraged to use some state-of-the-art methodologies to handle the CSI information, such as machine learning, or deep learning. And then we can judge how much further your algorithm can achieve. It should be noticed that this part will be graded in terms of experimental completness and accuracy, as well as the cross-sectional comparison with other groups.
 The refereced dataset link is: https://www.kaggle.com/competitions/wild-v2/overview, which consists of the training datasets and the test datasets.
 
